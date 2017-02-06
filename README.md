@@ -6,9 +6,12 @@ Final project for microcontrollers course at AGH, Cracow. Clock uses Arduino Uno
 ## Description
 The code allows for setting current time and date (including leap years) as well as setting alarm. It can also display temperature using Atmega328's internal sensor, though it cannot be described as accurate. A 4 axis joystick is used as user input.
 
+![](https://cloud.githubusercontent.com/assets/25593055/22661872/426d56d2-eca7-11e6-8b02-292a9c5f22d8.png)
+
 ###BOM
 - Arduiono Uno (or clone)
 - common anode 7 segment display
 - 4 axis joystic with button
 - buzzer
 
+Compiled hex file can be uploaded via Arduino Builder or ISP programmer (for egzample USBasp with 6 pin adapter).
