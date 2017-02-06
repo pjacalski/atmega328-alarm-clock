@@ -14,4 +14,4 @@ The code allows for setting current time and date (including leap years) as well
 - 4 axis joystic with button
 - buzzer
 
-Compiled hex file can be uploaded via Arduino Builder or ISP programmer (for egzample USBasp with 6 pin adapter).
+Compiled hex file can be uploaded via Arduino Builder or ISP programmer (for egsample USBasp with 6 pin adapter).
